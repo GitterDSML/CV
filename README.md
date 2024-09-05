@@ -6,9 +6,7 @@ https://www.linkedin.com/in/diego-diaz-318731166/
 
 ### Beruflicher Werdegang
 
-#### Oktober 2021 – August 2023 (_December 2019_)
-
-(_December 2019_)
+#### Oktober 2021 – August 2023
 
 Resident Engineer bei Fagor Ederlan Tafalla S.Coop, Spanien.
 
@@ -20,7 +18,7 @@ Analyseplattform zur Prozessüberwachung und -optimierung
 - "Voice of the client"
 - Teamkoordination // Beschaffung von Unterauftragnehmern
 - Dokumentation und Management von Reklamationen ( 3A, Risiko
-- Assessment, CAPA ) // Konfliktmanagement
+  Assessment, CAPA ) // Konfliktmanagement
 - Umsetzung von Sicherungsmaßnahmen (Lieferantenorganisation)
 
 #### August 2018 – September 2021
