@@ -6,7 +6,9 @@ https://www.linkedin.com/in/diego-diaz-318731166/
 
 ### Beruflicher Werdegang
 
-#### Oktober 2021 – August 2023 
+#### Oktober 2021 – August 2023 (_December 2019_)
+
+(_December 2019_)
 
 Resident Engineer bei Fagor Ederlan Tafalla S.Coop, Spanien.
 
