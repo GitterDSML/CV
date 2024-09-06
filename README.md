@@ -141,9 +141,9 @@ GitHub
 
 ### Portfolio 
 
-Repositories in GitHub (https://github.com/GitterDSML)
-
-### Weitere Kompetenzen 
+ ([Repositories in GitHub](https://github.com/GitterDSML?tab=repositories))
+ 
+ ### Weitere Kompetenzen 
 
 Projektmanagement
 
