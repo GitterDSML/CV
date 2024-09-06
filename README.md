@@ -2,7 +2,7 @@
 
 ### Linkedin profile : 
 
-https://www.linkedin.com/in/diego-diaz-318731166/
+([www.linkedin.com/in/diego-diaz-expert](www.linkedin.com/in/diego-diaz-expert))
 
 ### Beruflicher Werdegang
 
@@ -142,8 +142,10 @@ GitHub
 ### Portfolio 
 
  ([Repositories in GitHub](https://github.com/GitterDSML?tab=repositories))
+
  
- ### Weitere Kompetenzen 
+ 
+### Weitere Kompetenzen 
 
 Projektmanagement
 
