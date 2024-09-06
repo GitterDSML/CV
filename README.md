@@ -120,13 +120,15 @@ Französisch: Grundlagen
 
 Italienisch: Grundlagen
 
-### Sonstige Fähigkeiten
+### Fortlaufende Weiterbildung 
 
 Data Science MS Azure Fundamentals - 09.09.2024 Weiterbildung (AZ900 INT)
 
 AWS Cloud - 16.09.2024 Weiterbildung (Cloud Practitioner AWS INT)
 
 Microsoft Power Platform - 23.09.2024 Weiterbildung (PL900 INT)
+
+### Sonstige Fähigkeiten
 
 ELT - API/Power BI
 
@@ -144,7 +146,6 @@ GitHub
 
  ([Repositories in GitHub](https://github.com/GitterDSML?tab=repositories))
 
- 
  
 ### Weitere Kompetenzen 
 
