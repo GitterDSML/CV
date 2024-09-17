@@ -3,7 +3,7 @@
 
 ### Linkedin profile : 
 
-([www.linkedin.com/in/diego-diaz-expert](www.linkedin.com/in/diego-diaz-expert))
+([www.linkedin.com/in/diego-diaz-expert](https://www.linkedin.com/in/diego-diaz-expert/))
 
 ### Beruflicher Werdegang
 
